@@ -21,7 +21,7 @@
     align-items: center;
     background-color: rgba(153, 153, 153, 0);
     box-shadow: 0 0 1rem 0 rgba(255,255,255,0.2);
-    width: 1348px;
+    width: 1518px;
     margin-left: 0.1px;
 }
 
@@ -82,7 +82,7 @@ nav li a:hover {
 
 .col {
     flex-basis: 50%;
-    margin-left: 200px;
+    margin-left: 290px;
 }
 
 
@@ -118,6 +118,19 @@ nav li a:hover {
 .searchbar2 {
     width: 140px;
     margin-left: 20px;
+}
+.searchbar3 {
+    width:60px ;
+    padding: 10px 30px;
+    box-shadow: 0 0 1rem 0 rgba(255, 255, 255, 0.63);
+    height:30px ;
+    margin-left:15px ;
+}
+.searchbar3 a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.344);
+    font-size: 18px
+
 }
 
 .searchbar input {
@@ -228,7 +241,7 @@ h5 {
     box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.446);
     width: 750px;
     border-radius: 50px;
-    margin-left: 300px;
+    margin-left: 370px;
     margin-top: 70px;
 }
 
