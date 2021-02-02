@@ -119,6 +119,7 @@ nav li a:hover {
     width: 140px;
     margin-left: 20px;
 }
+
 .searchbar3 {
     width:60px ;
     padding: 10px 30px;
@@ -126,6 +127,7 @@ nav li a:hover {
     height:30px ;
     margin-left:15px ;
 }
+
 .searchbar3 a {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.344);
