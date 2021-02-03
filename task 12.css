@@ -1,0 +1,171 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+div {
+    display: inline-block
+}
+
+.q {
+    background-color: rgb(13, 13, 70);
+    width: 1300px;
+    padding: 20px;
+}
+
+.q em {
+    color: rgb(134, 126, 126);
+    font-size: 30px;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
+.zz {
+    float: right;
+}
+
+.zz a {
+    text-decoration: none;
+    color: rgb(134, 126, 126);
+    font-size: 20px;
+    font-weight: bolder;
+    word-spacing: 77px;
+    text-transform: capitalize;
+}
+
+.w img {
+    width: 1350;
+    margin: 0px;
+}
+
+.r h1 {
+    width: 1400px;
+    font-size: 66px;
+    margin: 15px;
+    color: rgb(13, 13, 70);
+}
+
+.r h2 {
+    color: rgb(13, 13, 70);
+    text-transform: capitalize;
+    font-size: 50px;
+    margin: 15px;
+    font-weight: bolder;
+}
+
+.tt {
+    width: 400px;
+    margin: 10px;
+    text-transform: capitalize;
+}
+
+.tt a {
+    color: rgb(13, 13, 70);
+    text-decoration: none;
+}
+
+.tt span {
+    color: #667766
+}
+
+.yy {
+    width: 400px;
+    margin: 10px;
+    text-transform: capitalize;
+}
+
+.yy a {
+    color: rgb(13, 13, 70);
+    text-decoration: none;
+}
+
+.yy span {
+    color: #667766
+}
+
+.uu {
+    width: 400px;
+    text-transform: capitalize;
+    margin: 10px;
+}
+
+.uu a {
+    color: rgb(13, 13, 70);
+    text-decoration: none;
+}
+
+.uu span {
+    color: #667766
+}
+
+strong {
+    font-size: 40px;
+    color: rgb(13, 13, 70);
+    margin: 10px;
+    text-transform: capitalize;
+}
+
+svg {
+    margin: 10px;
+}
+
+blockquote {
+    color: grey;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+
+div.AAA {
+    border-bottom: #667766 1px dashed;
+    height: 5px;
+}
+
+p.Z {
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+div.BBB {
+    border-bottom: #667766 1px dashed;
+    padding: 15px 0px 15px 0px;
+}
+
+div.CCC {
+    width: 1340px;
+    height: 310px;
+    background-image: url('images/55555.jpg');
+    background-size: 100%;
+    background-repeat: round;
+}
+
+button {
+    width: 150px;
+    height: 80px;
+    border-radius: 30px;
+    background-color: rgba(37, 62, 138, 0.986);
+}
+
+a.DDD {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+div.EEE {
+    border-bottom: #667766 1px dashed;
+    padding-bottom: 15px;
+}
+
+div.FFF {
+    background-color: #667766;
+    height: 1px;
+    width: 500px;
+}
+
+div.GGG {
+    background-color: #FFF;
+    height: 1px;
+    width: 1340px;
+    border-bottom: #667766 dashed 1px;
+}
