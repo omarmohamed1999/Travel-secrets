@@ -8,7 +8,7 @@
 .container {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient( rgba(0,0,0,0.6), rgba(0,0,0,0.6) ), url("pic.jpg");
+    background-image: linear-gradient( rgba(0,0,0,0.6), rgba(0,0,0,0.6) ), url("images/pic.jpg");
     background-position: center;
     background-size: cover;
     padding-right: 8%;
@@ -174,20 +174,20 @@ nav li a:hover {
     border-radius: 10px;
   }
 .card1 {
-    background-image: url(switzerland.jpg);
+    background-image: url(images/switzerland.jpg);
     
 }
 
 .card2 {
-    background-image: url(netherlands.jpg);
+    background-image: url(images/netherlands.jpg);
 }
 
 .card3 {   
-    background-image: url(italy.jpg);
+    background-image: url(images/italy.jpg);
 }
 
 .card4 {
-    background-image: url(germany.jpg);
+    background-image: url(images/germany.jpg);
 }
 
 .card1:hover {
